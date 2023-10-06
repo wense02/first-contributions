@@ -95,6 +95,7 @@
 - [Himanshi Gupta](https://github.com/himanshigupta22)
 - [Pratham Dhiman](https://github.com/Pratham86)
 - [Vijay V] (https://github.com/vijayv18)
+- [O'shea Osarumwense](https://github.com/wense02) 
 - [Abhinay singh](https://github.com/Abhinay123Singh)
 - [Nandini Arora](https://github.com/Nandiniar)
 - [Arif20484423](https://github.com/Arif20484423)
