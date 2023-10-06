@@ -109,6 +109,7 @@
   [Ritik Jain](https://github.com/PANDACR)
    [Anshul Namdev] (https://github.com/Anshun352)
 - [Aryan Sahare] (https://github.com/AryanSahare01)
+- [O'shea Osarumwense](https://github.com/wense02)
 - [Alexandre Godoy Peres](https://github.com/AlexandreP23)
 - [Ankit Ujjwal Kujur](https://github.com/ankitkujur15)
 - [Sowad Khan](https://github.com/SowadK25)
